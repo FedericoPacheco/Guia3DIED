@@ -1,2 +1,2 @@
 # Guia3DIED
-Resolución de lagunos ejercicios de la guía.
+Resolución de algunos ejercicios de la guía.
