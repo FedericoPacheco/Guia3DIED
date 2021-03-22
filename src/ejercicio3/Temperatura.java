@@ -33,10 +33,10 @@ public class Temperatura
 		switch (unidad)
 		{
 			case fahrenheit:
-				strAux += "°F";
+				strAux += " °F";
 				break;
 			case celsius:
-				strAux += "°C";
+				strAux += " °C";
 				break;
 		}
 		
